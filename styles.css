@@ -80,7 +80,7 @@ a {
 
 .para1 {
   position: absolute;
-  left: 900px;
+  left: 68%;
   top: 1050px;
 }
 
@@ -101,7 +101,7 @@ a {
 }
 
 .foot {
-  margin-left: 475px;
+  margin-left: 35%;
   color: #EAF6F6;
   font-size: 1rem;
   padding: 20px 0;
