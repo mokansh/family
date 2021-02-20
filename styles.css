@@ -58,8 +58,10 @@ a {
 }
 
 .mid {
+  background-color: black;
   margin: 0;
   padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .last {
