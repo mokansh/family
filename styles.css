@@ -1,0 +1,107 @@
+body {
+  text-align: center;
+  margin: 0;
+  position: absolute;
+}
+
+img {
+  margin: 50px auto 0;
+  width: 20%;
+}
+
+h1 {
+  color: #8fbc8f;
+  font-family: 'Indie Flower', cursive;
+  font-size: 60px;
+}
+
+h2 {
+  color: #8fbc8f;
+  font-family: 'Truculenta', sans-serif;
+  font-size: 40px;
+  margin: auto;
+  width: 25%;
+}
+
+h3 {
+  color: #8fbc8f;
+  font-family: 'Truculenta', sans-serif;
+  font-size: 40px;
+  margin: 20px auto;
+  width: 25%;
+}
+
+p {
+    font-weight: bold;
+    color: #8fbc8f;
+    font-size: 40px;
+    font-family: 'Truculenta', sans-serif;
+    width: 30%;
+}
+
+a {
+    color: #EAF6F6;
+    font-family: 'Truculenta', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+
+.doc {
+  color: #228b22;
+}
+
+.top {
+  background-color: #2f4f4f;
+  padding-top: 30px;
+  padding-bottom: 0;
+}
+
+.mid {
+  margin: 0;
+  padding-top: 20px;
+}
+
+.last {
+  background-color: #3cb371;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.img1 {
+  position: relative;
+  right: 200px;
+}
+
+.img2 {
+  position: relative;
+  left: 200px;
+}
+
+.para1 {
+  position: absolute;
+  left: 900px;
+  top: 1050px;
+}
+
+.para2 {
+  position: absolute;
+  top: 1050px;
+
+}
+
+.collage {
+  width: 30%;
+  margin: 30px;
+}
+
+.doctor {
+    font-family: 'Truculenta', sans-serif;
+    margin: 20px auto;
+}
+
+.foot {
+  margin-left: 475px;
+  color: #EAF6F6;
+  font-size: 1rem;
+  padding: 20px 0;
+}
