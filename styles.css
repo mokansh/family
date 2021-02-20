@@ -51,14 +51,14 @@ a {
 }
 
 .top {
-  background-color: #2f4f4f;
+  background-image: url("backy.png");
   position: relative;
   padding-top: 30px;
   padding-bottom: 0;
 }
 
 .mid {
-  background-color: black;
+  background-image: url("backi.png");
   margin: 0;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -72,12 +72,14 @@ a {
 
 .img1 {
   position: absolute;
-  right: 40px;
+  right: 25px;
+  top: 250px;
 }
 
 .img2 {
   position: absolute;
-  left: 40px;
+  left: 25px;
+  top: 15px;
 }
 
 .para1 {
